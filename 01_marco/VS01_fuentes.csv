@@ -1,0 +1,8 @@
+id,Fuerza del contexto,Fuente oficial,Institucion,Serie o indicador,URL,Periodicidad,Ultima actualizacion
+F-01,Conectividad digital de los hogares,ENAHO - Estadisticas TIC en hogares,INEI,% de hogares con acceso a Internet,https://www.inei.gob.pe/media/MenuRecursivo/boletines/informe-tecnico_tecnologiasdelainformacion_ene_feb_mar2025.pdf,Trimestral,1T-2025
+F-02,Volatilidad cambiaria,Series estadisticas - Tipo de cambio interbancario,BCRP,PN01207PM - Tipo de cambio interbancario promedio del periodo,https://estadisticas.bcrp.gob.pe/estadisticas/series/api,Diaria/Mensual,2026-06
+F-03,Inflacion,Series estadisticas - IPC Lima Metropolitana,BCRP / INEI,Variacion % IPC ultimos 12 meses,https://estadisticas.bcrp.gob.pe/estadisticas/series/api,Mensual,2026-06
+F-04,Penetracion y cobertura movil,Indicadores del mercado de telecomunicaciones,OSIPTEL,Lineas moviles activas y % de cobertura poblada,https://www.gob.pe/institucion/osiptel/noticias/1359346-osiptel-cuantas-lineas-moviles-hay-en-peru-al-cierre-de-2025,Trimestral,4T-2025
+F-05,Actividad economica general,Cuentas nacionales - PBI,BCRP,PBI - variacion % interanual,https://www.bcrp.gob.pe/docs/Publicaciones/Notas-Estudios/2026/nota-de-estudios-13-2026.pdf,Mensual/Trimestral,2025 (cierre de ano)
+F-06,Comparacion regional de adopcion digital,World Development Indicators,Banco Mundial,IT.NET.USER.ZS / IT.CEL.SETS.P2,https://api.worldbank.org/v2/,Anual,2023-2024
+F-07,Transformacion digital del sector salud,Agenda Digital del Sector Salud hacia el 2030 / Conectaton IPS Peru,MINSA / OPS-OMS / BID,Avance de interoperabilidad de la historia clinica electronica,https://www.paho.org/es/noticias/20-6-2025-transformacion-digital-peru-valida-interoperabilidad-historias-clinicas,Anual,2025

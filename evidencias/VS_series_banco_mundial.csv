@@ -1,0 +1,11 @@
+codigo,indicador,pais,anio,valor,url_origen,fecha_descarga
+IT.NET.USER.ZS,Personas que usan Internet (% de la poblacion),Peru,2024,81.96,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.NET.USER.ZS?format=json,2026-08-27
+IT.NET.USER.ZS,Personas que usan Internet (% de la poblacion),Chile,2024,95.59,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.NET.USER.ZS?format=json,2026-08-27
+IT.NET.USER.ZS,Personas que usan Internet (% de la poblacion),Colombia,2024,79.35,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.NET.USER.ZS?format=json,2026-08-27
+IT.NET.USER.ZS,Personas que usan Internet (% de la poblacion),Mexico,2024,83.12,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.NET.USER.ZS?format=json,2026-08-27
+IT.NET.USER.ZS,Personas que usan Internet (% de la poblacion),Brasil,2024,84.46,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.NET.USER.ZS?format=json,2026-08-27
+IT.CEL.SETS.P2,Suscripciones a telefonia movil (por cada 100 personas),Peru,2023,121.98,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.CEL.SETS.P2?format=json,2026-08-27
+IT.CEL.SETS.P2,Suscripciones a telefonia movil (por cada 100 personas),Chile,2023,135.87,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.CEL.SETS.P2?format=json,2026-08-27
+IT.CEL.SETS.P2,Suscripciones a telefonia movil (por cada 100 personas),Colombia,2023,166.98,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.CEL.SETS.P2?format=json,2026-08-27
+IT.CEL.SETS.P2,Suscripciones a telefonia movil (por cada 100 personas),Mexico,2023,111.74,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.CEL.SETS.P2?format=json,2026-08-27
+IT.CEL.SETS.P2,Suscripciones a telefonia movil (por cada 100 personas),Brasil,2023,101.02,https://api.worldbank.org/v2/country/PER;CHL;COL;MEX;BRA/indicator/IT.CEL.SETS.P2?format=json,2026-08-27
