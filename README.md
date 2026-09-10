@@ -17,5 +17,14 @@ a lo largo del semestre.
 - `graficos/VS_contexto.png` — gráfico de contexto generado a partir de las series.
 - `SI886-LAB-02_vargas.docx` — informe de laboratorio en formato APA 7.
 
+## Semana 04 — Formulación y validación de la misión y la visión
+
+El desarrollo completo de este taller (diagnóstico de la misión y la visión de
+la empresa, y derivación de la visión de la función de TI) vive en su propio
+repositorio dedicado: **[PETI-TALLER4](https://github.com/AngelVargasGutierrez/PETI-TALLER4)**.
+
+- Etiqueta del taller: [`taller-04`](https://github.com/AngelVargasGutierrez/PETI-TALLER4/tree/taller-04)
+- Empresa analizada: Crehana (Sección 2.1 y Sección 2.2 del PETI).
+
 Autor: Angel Jose Vargas Gutierrez.
 Docente: Dr. Oscar Juan Jimenez Flores.
