@@ -26,5 +26,15 @@ repositorio dedicado: **[PETI-TALLER4](https://github.com/AngelVargasGutierrez/P
 - Etiqueta del taller: [`taller-04`](https://github.com/AngelVargasGutierrez/PETI-TALLER4/tree/taller-04)
 - Empresa analizada: Crehana (Sección 2.1 y Sección 2.2 del PETI).
 
+## Semana 10 — Arquitectura empresarial actual y objetivo (ArchiMate)
+
+El desarrollo completo de este taller (principios de arquitectura, modelado de
+la arquitectura actual y objetivo, estructura de la información y análisis de
+brechas) vive en su propio repositorio dedicado:
+**[PETI-TALLER10](https://github.com/AngelVargasGutierrez/PETI-TALLER10)**.
+
+- Etiquetas del taller: [`taller-10`](https://github.com/AngelVargasGutierrez/PETI-TALLER10/tree/taller-10) · [`v0.10`](https://github.com/AngelVargasGutierrez/PETI-TALLER10/tree/v0.10)
+- Organización analizada: Escuela Profesional de Ingeniería de Sistemas, EPIS-UPT (Sección 5 del PETI).
+
 Autor: Angel Jose Vargas Gutierrez.
 Docente: Dr. Oscar Juan Jimenez Flores.
